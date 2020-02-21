@@ -13,15 +13,15 @@
 ## Current Status
 
 * Manifest Permission for Activity Recognition for Api level 28 and below added
-* Implementation of Runtime permision request flow for Activity Recognition for Android Q(Api level 29) started
-* Began Setup of Dagger Modules and Dependency injection
-* Began creation of Api Client classes
+* Implementation of Runtime permision request flow for [Activity Recognition for Android Q(Api level 29)](https://developer.android.com/about/versions/10/privacy/changes#physical-activity-recognition) started
+* Began Setup of [Dagger Modules](app/src/main/java/com/kweku/googlefitsampleapp/di) and Dependency injection
+* Began creation of [Api Client classes](/app/src/main/java/com/kweku/googlefitsampleapp/googlefitapi)
 * Application registered with [Oauth](https://developers.google.com/fit/android/get-api-key)
 
-## To do
+## To Do
 
 * Finish Dagger Dependency Injection Graph
 * Create Api Classes for the RecordingClient and HistoryClient and implement all the neccesary functions needed
 * Finsish Authorisation Flow
-* Implement presentation of Data
+* Implement presentation of Step Data
 
