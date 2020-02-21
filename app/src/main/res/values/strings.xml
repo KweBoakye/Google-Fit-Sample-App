@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Google Fit Sample App</string>
+    <string name="permission_rationale">Activity Recognition data is used as part of the Google Fit API</string>
+</resources>
